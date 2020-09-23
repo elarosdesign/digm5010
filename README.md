@@ -14,7 +14,7 @@ Step 1 of the Literature Review assignment.
 •	Exploring the emotional potential of our extended reality and tangible responsive environments in supporting people’s higher senses? Like a collective sense of trust, ease, time/orientation, 
 •	Integrating poetry and theatre as well as critical data visualisation in visualizing the virtual state or workstation of the precariat transnational global demizens.
 
-
+•	Integrating poetry and theatre as well as critical data visualisation in visualizing the virtual state or workstation of the precariat transnational global demizens.
 
 Digital media platform topics of interest:
 
