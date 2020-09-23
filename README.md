@@ -12,6 +12,7 @@ Step 1 of the Literature Review assignment.
 •	Exploring how bodies relate and collaborate over distanced virtual spaces in imagination of new systems.
 
 •	Exploring the emotional potential of our extended reality and tangible responsive environments in supporting people’s higher senses? Like a collective sense of trust, ease, time/orientation, 
+•	Integrating poetry and theatre as well as critical data visualisation in visualizing the virtual state or workstation of the precariat transnational global demizens.
 
 
 
