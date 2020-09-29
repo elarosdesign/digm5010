@@ -2,10 +2,8 @@ Online Journal
 
 Week2 : 
 
+First Sketch study:
 
-        My first sketch-study
-  
-        
 <p class="codepen" data-height="265" data-theme-id="dark" data-default-tab="js,result" data-user="elarosdesign" data-slug-hash="poyqWyp" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Spacepaths-Yellowtail Variation">
   <span>See the Pen <a href="https://codepen.io/elarosdesign/pen/poyqWyp">
   Spacepaths-Yellowtail Variation</a> by elarosdesign (<a href="https://codepen.io/elarosdesign">@elarosdesign</a>)
@@ -18,8 +16,8 @@ Week2 :
 
 
 Step 1 of the Literature Review assignment.
-        
-        Topic:
+
+Topic:
 
 •	Exploring how bodies relate and collaborate over distanced virtual spaces in imagination of new systems.
 
