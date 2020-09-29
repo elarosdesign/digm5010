@@ -1,8 +1,11 @@
 Online Journal
 
 Week2 : 
+
+
         My first sketch-study
         https://codepen.io/elarosdesign/pen/poyqWyp
+        <How do I eneter the window ?>
 
 
 Step 1 of the Literature Review assignment.
