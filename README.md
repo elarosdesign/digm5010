@@ -4,8 +4,17 @@ Week2 :
 
 
         My first sketch-study
-        https://codepen.io/elarosdesign/pen/poyqWyp
-        <How do I eneter the window ?>
+  
+        
+<p class="codepen" data-height="265" data-theme-id="dark" data-default-tab="js,result" data-user="elarosdesign" data-slug-hash="poyqWyp" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Spacepaths-Yellowtail Variation">
+  <span>See the Pen <a href="https://codepen.io/elarosdesign/pen/poyqWyp">
+  Spacepaths-Yellowtail Variation</a> by elarosdesign (<a href="https://codepen.io/elarosdesign">@elarosdesign</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+
+
+       
 
 
 Step 1 of the Literature Review assignment.
