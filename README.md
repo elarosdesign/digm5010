@@ -1,8 +1,9 @@
-Online Journal
+<h1> Online Journal</h1>
 
-Week2 : 
 
-First Sketch study:
+<h2>Week2</h2> 
+
+<h3>First Sketch study: </h3>
 
 <p class="codepen" data-height="265" data-theme-id="dark" data-default-tab="js,result" data-user="elarosdesign" data-slug-hash="poyqWyp" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Spacepaths-Yellowtail Variation">
   <span>See the Pen <a href="https://codepen.io/elarosdesign/pen/poyqWyp">
@@ -26,10 +27,14 @@ Topic:
 
 •	Integrating poetry and theatre as well as critical data visualisation in visualizing the virtual state or workstation of the precariat transnational global demizens.
 
+
+
+
 Digital media platform topics of interest:
 
 
 HCI 
+
 •	Seven HCI Grand Challenges
 •	MacKenzie, I. S. (2013). Human-computer interaction: An empirical research perspective. Waltham, MA: Morgan Kaufmann.
 •	Plans and Situated Actions: The Problem of Human-Machine Communication, Barry Kantowit
