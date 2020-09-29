@@ -1,9 +1,9 @@
 <h1> Online Journal</h1>
 
 
-<h2>Week2</h2> 
+<h2> Week2</h2> 
 
-<h3>First Sketch study: </h3>
+<h3> First Sketch study: </h3>
 
 <p class="codepen" data-height="265" data-theme-id="dark" data-default-tab="js,result" data-user="elarosdesign" data-slug-hash="poyqWyp" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Spacepaths-Yellowtail Variation">
   <span>See the Pen <a href="https://codepen.io/elarosdesign/pen/poyqWyp">
@@ -16,9 +16,10 @@
        
 
 
-Step 1 of the Literature Review assignment.
+<h3> Step 1 of the Literature Review assignment.</h3>
 
-Topic:
+
+<h4> Topic:</h4>
 
 •	Exploring how bodies relate and collaborate over distanced virtual spaces in imagination of new systems.
 
@@ -30,7 +31,7 @@ Topic:
 
 
 
-Digital media platform topics of interest:
+<h4> Digital media platform topics of interest:</h4>
 
 
 HCI 
