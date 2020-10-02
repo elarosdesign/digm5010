@@ -36,7 +36,7 @@
 
 HCI 
 
-•	[Seven HCI Grand Challenges] (https://www.tandfonline.com/doi/full/10.1080/10447318.2019.1619259)
+•	[Seven HCI Grand Challenges](https://www.tandfonline.com/doi/full/10.1080/10447318.2019.1619259)
 •	MacKenzie, I. S. (2013). Human-computer interaction: An empirical research perspective. Waltham, MA: Morgan Kaufmann.
 •	Plans and Situated Actions: The Problem of Human-Machine Communication, Barry Kantowit
 
