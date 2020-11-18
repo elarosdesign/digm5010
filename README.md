@@ -82,7 +82,7 @@ New Paradigms of complexity and chaos
 <h3> Annotated Bibliography </h3>
 
 
-**1.	Grand challenges for ambient intelligence and implications for design contexts and smart societies
+** 1.	Grand challenges for ambient intelligence and implications for design contexts and smart societies
 Norbert Streitz , Dimitris Charitos , Maurits Kaptein and Marc Böhlen **
 
 •	Most conventional computer interfaces take neither physical space nor the presence or identity of human beings into account. However, as computation gradually becomes part of everyday physical space, the spatial context within which interaction between humans and computation takes place radically changes from a fairly static single-user, location-independent world to a dynamic multi-user situated environment. The physical location of the interface to the computation now becomes relevant.
@@ -102,7 +102,7 @@ Norbert Streitz , Dimitris Charitos , Maurits Kaptein and Marc Böhlen **
 
 •	Non-verbal communication relates to the embodied aspect of communication and consists of three main categories: a) tacesics (the study of bodily touch between humans), b) proxemics (the interpersonal distances which are kept for negotiating our personal space and territories) and kinesics (the analysis of the bodily movements and of the meanings related to them). Contexts in communication are not preset; rather, they are co-constructed by the participants. Communication should not be viewed as the process of information exchange, but as the process of the exchange of meanings and interpretations of the situations the actors are involved in
 
-**2.	Social and Spatial Presence: An Application to Optimize Human-Computer Interaction
+** 2.	Social and Spatial Presence: An Application to Optimize Human-Computer Interaction
 Karl Horvath and Matthew Lombard**
 
 •	The cross-disciplinary literature study by Karl Horvath and Matthew Lombard from Gwynedd-Mercy College and Temple University respectively in USA examines telepresence phenomena in which media technologies overlook the existence or nature if the technolog. 
