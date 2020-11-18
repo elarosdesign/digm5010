@@ -1,5 +1,5 @@
 <h1> Online Journal</h1>
-
+======
 
 <h2> Week2</h2> 
 
@@ -17,7 +17,7 @@
 
 
 <h3> Step 1 of the Literature Review assignment.</h3>
-
+------
 
 <h4> Topic:</h4>
 
@@ -80,6 +80,7 @@ New Paradigms of complexity and chaos
 
 
 <h3> Annotated Bibliography </h3>
+------
 
 1.	Grand challenges for ambient intelligence and implications for design contexts and smart societies
 Norbert Streitz , Dimitris Charitos , Maurits Kaptein and Marc Böhlen 
