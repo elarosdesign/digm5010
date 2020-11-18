@@ -187,5 +187,8 @@ Guy Standing**
 
 
 
+**Abstract**
+
+Rotations is a tangible sonic interactive system that supports spatial communication and contextual interpersonal awareness. Through this experience participants are encouraged to recognize their agency in creating patterns through motion and audio feedback as well as in relation to other distant participants. The installation creates a stage for a smart mob in playfully re-enacting a place-time rotation schedule as a protest of increasing problems of labour insecurity and civic disengagement for the precariat working class in society. 
 
 
