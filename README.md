@@ -1,5 +1,5 @@
 <h1> Online Journal</h1>
-======
+
 
 <h2> Week2</h2> 
 
@@ -80,10 +80,11 @@ New Paradigms of complexity and chaos
 
 
 <h3> Annotated Bibliography </h3>
-------
 
-1.	Grand challenges for ambient intelligence and implications for design contexts and smart societies
-Norbert Streitz , Dimitris Charitos , Maurits Kaptein and Marc Böhlen 
+
+**1.	Grand challenges for ambient intelligence and implications for design contexts and smart societies
+Norbert Streitz , Dimitris Charitos , Maurits Kaptein and Marc Böhlen **
+
 •	Most conventional computer interfaces take neither physical space nor the presence or identity of human beings into account. However, as computation gradually becomes part of everyday physical space, the spatial context within which interaction between humans and computation takes place radically changes from a fairly static single-user, location-independent world to a dynamic multi-user situated environment. The physical location of the interface to the computation now becomes relevant.
 
 •	On the other hand “Smart environments” can be found now at many levels and increasing in scale: from smart artefacts to smart rooms and smart buildings all the way to smart cities addressing a wide range of activities in urban environments. One can also observe an extension of application areas: from office work and learning activities (as more traditional areas) via services for daily routines organizing your life, health and well-being to manufacturing and production enabled by the Industrial Internet also called Industry 4.0 as well as smart farming and agriculture, to marketing and sales. 
@@ -101,8 +102,8 @@ Norbert Streitz , Dimitris Charitos , Maurits Kaptein and Marc Böhlen
 
 •	Non-verbal communication relates to the embodied aspect of communication and consists of three main categories: a) tacesics (the study of bodily touch between humans), b) proxemics (the interpersonal distances which are kept for negotiating our personal space and territories) and kinesics (the analysis of the bodily movements and of the meanings related to them). Contexts in communication are not preset; rather, they are co-constructed by the participants. Communication should not be viewed as the process of information exchange, but as the process of the exchange of meanings and interpretations of the situations the actors are involved in
 
-2.	Social and Spatial Presence: An Application to Optimize Human-Computer Interaction
-Karl Horvath and Matthew Lombard
+**2.	Social and Spatial Presence: An Application to Optimize Human-Computer Interaction
+Karl Horvath and Matthew Lombard**
 
 •	The cross-disciplinary literature study by Karl Horvath and Matthew Lombard from Gwynedd-Mercy College and Temple University respectively in USA examines telepresence phenomena in which media technologies overlook the existence or nature if the technolog. 
 
@@ -115,16 +116,16 @@ Karl Horvath and Matthew Lombard
 •	Spatial presence occurs “when part or all of a person's perception fails to accurately acknowledge the role of technology that makes it appear that the person is in a physical location or environment different from her/his actual location and environment in the physical world”. Spatial cues such as 3D, audio, video, haptics and odors can be used to evoke spatial presence. Examples of this are seen in the experience of IMAX films, simulation rides and virtual reality.
 
 
-3.	Tangible Interfaces for Remote Collaboration and Communication
-Scott Brave, Hiroshi Ishii, Andrew Dahley
+**3.	Tangible Interfaces for Remote Collaboration and Communication
+Scott Brave, Hiroshi Ishii, Andrew Dahley**
 
 •	In this paper by Scott Brave, Hiroshi Ishii and Andrew Dahley the concept of Synchronized Distributed Physical Objects which employs telemanipulation technology with shred physical objects is describes. It than presents a new approach in order to enhance remote collaboration and communication based on the idea of tangible interfaces, which places a bigger emphasis on touch and physicality. 
 
 •	In this definition of Synchronized Distributed Physical Objects, physically synchronizing the states of distant, identical copies of an object using telemanipulation technology creates the illusion of a shared physical object across distance. That is achieved by employing sensors to monitor the states of the distributed copies of a “shared object” and actuators to synchronize those states. Thus, when a user manipulates their local copy of a shared physical object they are effectively manipulating all remote copies as weIl. Distributed users share physical objects, able to both manipulate and see others’ manipulation of the same objects.
 
 
-4.	Locative Media : a literature review
-Nicolas Nova
+**4.	Locative Media : a literature review
+Nicolas Nova**
 
 •	Nicolas Nova in this paper presents a review on the concept of location awareness and it different categories. It also presents and reviews multiple projects related to the topic explaining the extent of spatial feature of location and its use in social activity.
 
@@ -132,6 +133,7 @@ Nicolas Nova
 The lack of information about the geographically-dispersed partners is addressed by providing users with tools that try to “recreate the information landscape of a real-world landscape” :the awareness tools.
 
 •	One specific type of AT : Location-based awareness tools which are often referred to as ‘locative media’ or ‘location-based services’. Every information about the physical location as well as other contextual cues.
+
 •	A hierarchically organized model: 
 o	Physical environment: all the physical variables like location (absolute or relative) as well as conditions (e.g. light, temperature) or infrastructure (surrounding resources for communication, computation, task performance).
 o	Human factor related context is structured into : information about the user (emotional state, knowledge of habits, ...), the user’s social environment (co-location of others, social interaction, group dynamics,...) and the user’s tasks (spontaneous activity, engaged tasks, general goals, ...). In this paper, we will refer to the lowest level of this model (the physical environment) by the concept of location awareness.
@@ -140,21 +142,24 @@ o	Human factor related context is structured into : information about the user (
 
 •	Location awareness could refer to information about the present (synchronous awareness) or about the past (asynchronous awareness). We can decompose a locative media into three awareness components: presence (who was present and when), location and direction. Gaining location awareness require two positioning techniques.
 - absolute : awareness of the co-ordinates, the actual location or the place (city/country, building, room). This technique is supported by the Global Positioning System (GPS) or the Global System for Mobile Communication (GSM). It could be used in outdoor context. Such models are required for accurate positioning e.g. in augmented environments where a visual impression may be enhanced with location information.
+- relative : awareness of what other objects or which places are in the proximity. IR, WiFi (IEEE 802.11b) or Bluetooth supports this kind of positioning. This is the case of indoor positioning system. In this case, the idea is to localize the devices with regard to a known beacon or antenna. Triangulation techniques allow to compute the position of the device.
 
- - relative : awareness of what other objects or which places are in the proximity. IR, WiFi (IEEE 802.11b) or Bluetooth supports this kind of positioning. This is the case of indoor positioning system. In this case, the idea is to localize the devices with regard to a known beacon or antenna. Triangulation techniques allow to compute the position of the device.
 •	From a CSCW/CSCL perspective those LBS are of interest considering the new way people can deal with social spaces. The very concept of “social software” or “social middleware” is not just a overhyped buzzword.
+
 •	Apart from navigation system mostly based on GPS, locative media falls in two categories that work on both synchronous and asynchronous timescale: 
 - collaborative mapping/spatial annotation, location-linked information (text or audio), allowing various application like collaborative mapping of an area, mobile blogging, social navigation, new forms of guiding for tourism or conferencing, spatial annotations, events triggering, location-based storytelling and so on.
 - finding and tracking a person, a group or an artifact. Those systems offer both synchronous or asynchronous location awareness. Matchmaking devices belongs to this category.
+
 •	One of the most striking feature of those locative media used in a social context is that people can infer many things based on those information. “Spatial assumptions” foster multiple levels of knowledge mutuality. For instance, if A knows that B is at the library or heading to the restaurant, A can infer B’s activity. If A knows that B is connected, A and B feels copresence and there is a virtual sense of community. The point is hence to find and interpret traces from others in space
 
-5. Emotional Awareness in Collaborative Systems 
-Octavio García, Jesús Favela and Roberto Machorro
+**5. Emotional Awareness in Collaborative Systems 
+Octavio García, Jesús Favela and Roberto Machorro**
+
 •	Emotions play an important role in human interaction. Both, our own emotional state and our perception of that of others with which we collaborate influence the outcome of cooperative work. With the growing interest in providing computational support for the recognition and representation of emotions, there is a clear interest in adding such facilities to groupware systems and to evaluate the positive and negative effects of using this additional channel of communication. In this paper the authors discuss the issues involved in supporting a new type of collaborative awareness in groupware, namely, emotional awareness.
 
 •	The authors reviewed some of the evidence provided in the literature of the importance of emotions in rational thinking and human interaction, and argued the need to support emotional awareness in the design and implementation of groupware. We have also presented two affective-aware collaborative systems that we have constructed to learn the issues raised when designing such systems.
  
-Social Theory
+#Social Theory
 6.	Smart Mobs: The power of the mobile many
 Howard Rheingold
 •	Rheingold (2002) coined the term “smart mobs” to refer to group of people who use this kind of tools:
@@ -165,14 +170,19 @@ Howard Rheingold
 
 •	The term ‘netwar’ was coined by John Arquilla and David Ronfeldt, two analysts for the RAND corporation, who noticed that the same combination of social networks, sophisticated communication technologies, and decentralised organisational structure was surfacing as an effective force in very different kinds of political conflict: 
 Netwar is an emerging mode of conflict in which the protagonists – ranging from terrorist and criminal organisations on the dark side, to militant social activists on the bright side – use network forms of organisation, doctrine, strategy, and technology attuned to the information age…These networks are proving very hard to deal with; some are winning. What all have in common is that they operate in small, dispersed units that can deploy nimbly – anywhere, anytime.
+
 •	Swarm intelligence and the social mind,
 A diversity of cooperation thresholds among the individuals can tip a crowd into a sudden epidemic of cooperation: A minority of extremists can choose to act first and, if the conditions are right, their actions can trigger actions by others who needed to see somebody making the first move before acting themselves
+
 •	How do humans exhibit emergent behaviour?
 
-7.	The Precariat : The New Dangerous Class
-Guy Standing
+**7.	The Precariat : The New Dangerous Class
+Guy Standing**
+
 •	Neo-liberal policies and institutional changes have produced a huge and growing number of people with sufficiently common experiences to be called an emerging class. In this book Guy Standing introduces what he calls the Precariat - a growing number of people across the world living and working precariously, usually in a series of short-term jobs, without recourse to stable occupational identities or careers, stable social protection or protective regulations relevant to them. They include migrants, but also locals.
+
 •	Standing argues that this class of people could produce new instabilities in society. They are increasingly frustrated and dangerous because they have no voice, and hence they are vulnerable to the siren calls of extreme political parties. He outlines a new kind of good society, with more people actively involved in civil society and the precariat re-engaged. He goes on to consider one way to a new better society -- an unconditional basic income for everyone, contributed by the state, which could be topped up through earned incomes.
+
 •	This is a topical, and a radical book, which will appeal to a broad market concerned by the increasing problems of labour insecurity and civic disengagement.
 
 
