@@ -31,7 +31,6 @@
 <h4> Digital media platform topics of interest:</h4>
 
 HCI 
-
 •	[Seven HCI Grand Challenges](https://www.tandfonline.com/doi/full/10.1080/10447318.2019.1619259)
 •	MacKenzie, I. S. (2013). Human-computer interaction: An empirical research perspective. Waltham, MA: Morgan Kaufmann.
 •	Plans and Situated Actions: The Problem of Human-Machine Communication, Barry Kantowit
@@ -79,7 +78,7 @@ New Paradigms of complexity and chaos
 •	https://www.media.mit.edu/publications/building-the-new-economy/
 
 
-<h3> Annotated Bibliography </h3>
+## Annotated Bibliography 
 
 
 **1.	Grand challenges for ambient intelligence and implications for design contexts and smart societies
@@ -102,7 +101,7 @@ Norbert Streitz , Dimitris Charitos , Maurits Kaptein and Marc Böhlen**
 
 •	Non-verbal communication relates to the embodied aspect of communication and consists of three main categories: a) tacesics (the study of bodily touch between humans), b) proxemics (the interpersonal distances which are kept for negotiating our personal space and territories) and kinesics (the analysis of the bodily movements and of the meanings related to them). Contexts in communication are not preset; rather, they are co-constructed by the participants. Communication should not be viewed as the process of information exchange, but as the process of the exchange of meanings and interpretations of the situations the actors are involved in
 
-** 2.	Social and Spatial Presence: An Application to Optimize Human-Computer Interaction
+**2.	Social and Spatial Presence: An Application to Optimize Human-Computer Interaction
 Karl Horvath and Matthew Lombard**
 
 •	The cross-disciplinary literature study by Karl Horvath and Matthew Lombard from Gwynedd-Mercy College and Temple University respectively in USA examines telepresence phenomena in which media technologies overlook the existence or nature if the technolog. 
@@ -159,7 +158,7 @@ Octavio García, Jesús Favela and Roberto Machorro**
 
 •	The authors reviewed some of the evidence provided in the literature of the importance of emotions in rational thinking and human interaction, and argued the need to support emotional awareness in the design and implementation of groupware. We have also presented two affective-aware collaborative systems that we have constructed to learn the issues raised when designing such systems.
  
-#Social Theory
+## Social Theory
 6.	Smart Mobs: The power of the mobile many
 Howard Rheingold
 •	Rheingold (2002) coined the term “smart mobs” to refer to group of people who use this kind of tools:
@@ -185,6 +184,59 @@ Guy Standing**
 
 •	This is a topical, and a radical book, which will appeal to a broad market concerned by the increasing problems of labour insecurity and civic disengagement.
 
+**8.	PARABLES FOR THE VIRTUAL Movement, Affect, Sensation
+Brian Massumi**
+
+•	Brian Massumi is a Canadian philosopher and social theorist. Massumi's research spans the fields of art, architecture, cultural studies, political theory and philosophy. His work explores the intersection between power, perception, and creativity to develop an approach to thought and social action bridging the aesthetic and political domains. He is a retired professor in the Communications Department of the Université de Montréal.
+
+•	Parables for the Virtual: Movement, Affect, Sensation (2002), is credited with playing a central role in the development of the interdisciplinary field of affect studies. Affect (from Latin affectus or adfectus) is a concept, used in the philosophy of Baruch Spinoza and elaborated by Henri Bergson, Gilles Deleuze and Félix Guattari, that places emphasis on bodily or embodied experience.
+
+**9.  Politics and affect 
+Lita Crociani-Windlanda, and Paul Hoggettb**
+•	Until very recently Political Studies has largely ignored the role of the human passions. Understanding the difference between emotion and affect seems vital to this task, as without the latter emotion becomes cognitivised and over-civilised. 
+
+•	In this article, the authors examine some of the contributions of psychoanalysis and continental philosophy to our understanding of affect. They examine the corporeal and ambivalent nature of affect, which provides the basis for what they call the vicissitudes of human feeling, that is, the way in which different feelings connect or disconnect from one another in complex, indeterminate and surprising ways. 
+
+•	They then use a detailed examination of the vicissitudes of grief and grievance as they contribute to ressentiment, a sentiment that is a particular characteristic of reactionary forms of populism. Passion can only ever be partly tamed and civilised and this is what provides politics with its excitements and terrors. 
+
+•	Domesticated Feelings :
+
+Concerned that social constructionist understandings of emotion, which dominate the literature, have tended to tame feelings by rendering them in overly cognitive terms, my interest is in carving out a conceptual space y for the noncognitive, nonconscious, non-linguistic, and nonrational aspects of the general phenomenon of emotion (Gould, 2009, p. 19).
+Gould, D. (2009) Moving Politics: Emotion and ACT UP’s Fight Against AIDS. Chicago, IL: University of Chicago Press.
+This quote from Gould identifies one of the issues we wish to address in this article. For Gould, the form of feelings that fill this conceptual space are the affects, and in this article we follow her in arguing for the value of distinguishing between affect and emotion. Most of the work based on such a distinction has its roots in the continental philosophy of Bergson and Deleuze and has been mostly situated within the field of cultural studies, philosophy, critical social psychology and psycho-social studies (Massumi, 1993, 2002;
+
+•	Judith Butler argues that the shadow of loss leaves its mark on all subaltern identities – the loss of one’s own history (as history is largely not written by the powerless), the loss of a sense of the achievements of one’s group or class, the loss of valued role models, icons and heroes present or past, the absence of culturally desirable human qualities in the identity of black, working class, woman or queer (Butler, 1997). The loss is ungrievable because the symbolic means of understanding this loss are not available. In addition, it is here that Butler invokes the concept of ‘foreclosure’ to describe this absence of a means of representation (history, literature and so on) of a group’s own experience. Unable to grieve, subaltern communities are constituted by melancholia, a feeling state that is primarily affective.
+
+•	As Freud notes, whereas mourning is always related to some kind of tangible loss (when we grieve, we grieve with an object in mind), in melancholia ‘one cannot see clearly what it is that has been lost’; he adds, ‘melancholia is in some way related to an object-loss which is withdrawn from consciousness’ (1917, p. 245). The melancholic lacks consciousness of the cause of his suffering, the affect seeks an object to which its grievance can be addressed. . We believe this melancholia is an element of what Bourdieu (1999) calls ‘social suffering’, an abiding affect of the oppressed, excluded and marginalised.
+
+
+**10.  Sonifying the quantified self: Rhythmanalysis and performance research in and against the reduction of life-time to labour-time
+Frederick Harry Pitts University of Bristol, UK Eleanor Jean Interval, UK Yas Clarke Bristol Experimental Expanded Film (BEEF), UK **
+
+•	Today there is a proliferation of wearable and app-based technologies for selfquantification and self-tracking. This article explores the potential of an Open Marxist reading of Henri Lefebvre’s rhythmanalysis to understand data as an appearance assumed by the quantitative abstraction of everyday life, which negates a qualitative disjuncture between different natural and social rhythms – specifically those between embodied circadian and biological rhythms and the rhythms of work and organisations. It takes as a case study a piece of performance research investigating the methodological and practical potential of quantifiedself technologies to tell us about the world of work and how it sits within life as a whole. The prototype performance research method developed in the case study reconnects the body to its forms of abstraction in a digital age by means of the collection, interpretation and sonification of data using wearable tech, mobile apps, synthesised music and modes of visual communication. Quantitative data were selectively ‘sonified’ with synthesisers and drum machines to produce a 40-minute electronic symphony performed to a public audience. 
+
+•	Trial by time: space, time and the rhythmanalytical method- The current commentary on Lefebvre’s Open Marxism has tended to focus on Lefebvre’s empirical concern with everyday life and specifically the role of space within it. He developed a method which is able to apprehend social space with its own specific time or times’ or, in other words, ‘the rhythm of daily life which her called rhythmanalysis.
+
+•	It is the aim of rhythmanalysis to uncover what is concealed by exploring the relative coincidence and conflict between different natural and social rhythms – specifically those between our embodied circadian and biological rhythms and the rhythms of work and organisations. For Lefebvre, the sphere of work has a specific temporality. It is ‘abstract, quantitative’, ‘homogeneous and desacralised’. Its instruments of measure are watches and clocks. For Lefebvre, this temporality reduces life itself to its logic, decontextualising labour-time from its situation in the embodied time of life as a whole.
+
+•	The jarring sensory experience of difference in contrast to repetition is a key moment in rhythmanalysis. The possibility of recognising rhythm relies upon some aspect of everyday life dropping a beat. The repetitions that constitute rhythm appear only with the deviation of phenomena from its usual pattern. Difference makes rhythm sensible to the rhythmanalytical researcher
+
+Lefebvre H (2004) Rhythmanalysis: Space, Time and Everyday Life. London: Continuum
+
+•	Current discourse in performance research emphasises experience over accurate representation, and quality over quantity (Lamontagne 2012). Inspired by the Open Marxism outlined above, and its project of exploding the quantitative abstraction to which qualitative human practice both contributes and is subject in capitalist society, the performance research utilised in the case study confronted the veneer of equivalence the data of self-quantification grants to human processes and what we will go on to discuss in the next section as ‘living labour’, exposing the elision of embodied rhythms.
+
+
+**11. Immaterial Bodies : Affect, Embodiment, Mediation
+Blackman, Lisa**
+•	For half a century, researchers in artificial intelligence have viewed the human mind as a kind of computer, supporting the medium of intelligence as a pure logic and mathematics realm which must be studied as a disembodied phenomenon and in the abstract. Today, over the past decade or so, this view has been gaining much deserved suspect as we face our continued failure to create truly intelligent devices. No real world intelligence exists ‘in the abstract’; in all its many forms, intelligence always resides within biological brains attached to bodies that interact with environments. 
+
+•	Theorists such as Francisco Varela and Rodney Brookshave argued that intelligence cannot be contained within an individual, but it emerges out of the relationship between an individual and its environment. Intelligence, may have less to do with the principles of logic and top-down reasoning than with the laws to evolution and self-organization. 
+
+•	Stefano Nolfi of the Institute of Cognitive Sciences and Technologies in Rome refers to evolutionary techniques in discussing the nature of adaptive behaviour and self-organization in complex systems. 
+
+•	In the complex adaptive system, behavioural properties are dynamical process occurring in micro timescales and resulting from the non-linear interactions between natural or artificial agents, their bodies and the external environment. 
+
+•	In the new research paradigm of embodied cognitive science, Clark explores the importance of studying systems that are situated in an environment, embodiment (systems that have bodies, receive input from their sensors and produce motor actions as output) and emergence (the importance of viewing behaviour and intelligence as the emergent result of fine-grained interactions between the control system of an agent including its constituent parts, the body structure, and the environment)
 
 
 **Abstract**
